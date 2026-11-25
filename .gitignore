@@ -1,0 +1,37 @@
+# Quartus Prime generated directories & files
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+hc_output/
+qdb/
+*.qws
+*.bak
+*.done
+*.jdi
+*.pin
+*.pof
+*.rpt
+*.sld
+*.smsg
+*.sof
+*.summary
+*.ttf
+*.rbf
+*.jam
+*.jbc
+*.ekp
+*.log
+*.htm
+*.xml
+*_nativelink_simulation.rpt
+*.qdf.bak
+
+# ModelSim generated files
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vstf
+modelsim.ini
